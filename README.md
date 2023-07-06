@@ -6,6 +6,9 @@ repository for git tutorial
 + ReactJS
 + TypeScript
 + Git
++ Vue.js
++ AngularJS
++ JQuery
 
 >SIC PARVIS MAGNA
 
