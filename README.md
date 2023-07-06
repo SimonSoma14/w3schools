@@ -1,2 +1,2 @@
 # w3schools
-repository for Git tutorial
+repository for git tutorial
